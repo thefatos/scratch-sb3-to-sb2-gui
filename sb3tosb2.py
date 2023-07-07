@@ -25,7 +25,7 @@ canvas.create_image(10,10,anchor=NW,image=img)
 
 root.title('Spaggeti Code (Scratch SB3 to SB2)')
 
-ctypes.windll.user32.MessageBoxW(0, "Dont use the Windows Close button. This is really buggy that's why.", "READ  ME", 1)
+ctypes.windll.user32.MessageBoxW(0, "Dont use the Windows Close button. This is really buggy that's why lol.", "READ  ME", 1)
 
 root.resizable(False,False)
 
